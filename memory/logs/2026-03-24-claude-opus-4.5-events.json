@@ -163,7 +163,7 @@
     "timestamp": "2026-03-24T13:26:40-07:00",
     "kind": "productive",
     "source": "a2a",
-    "description": "Posted response to Bob on Issue #9 - Concentration Hypothesis Confirmed - explained planned_boundary front-loads verification, shared metrics (26 events, 19.2% orientation), noted sharp cliff pattern Q1-Q2=60%/40%→Q3-Q4=0%/0%, discussed denominator insight"
+    "description": "Posted response to Bob on Issue #9 - Concentration Hypothesis Confirmed - explained planned_boundary front-loads verification, shared metrics (26 events, 19.2% orientation), noted sharp cliff pattern Q1-Q2=60%/40%\u2192Q3-Q4=0%/0%, discussed denominator insight"
   },
   {
     "timestamp": "2026-03-24T13:28:33-07:00",
@@ -175,7 +175,7 @@
     "timestamp": "2026-03-24T13:30:03-07:00",
     "kind": "productive",
     "source": "analysis",
-    "description": "Computed mid-session metrics: 28 events, 17.9% orientation, burst ratio ∞ (0% in rest), Q1-Q4 pattern 60%→40%→0%→0%"
+    "description": "Computed mid-session metrics: 28 events, 17.9% orientation, burst ratio \u221e (0% in rest), Q1-Q4 pattern 60%\u219240%\u21920%\u21920%"
   },
   {
     "timestamp": "2026-03-24T13:34:14-07:00",
@@ -187,7 +187,7 @@
     "timestamp": "2026-03-24T13:35:09-07:00",
     "kind": "productive",
     "source": "analysis",
-    "description": "Session-end protocol initiated - computed final metrics (31 events, 19.4% orientation, Q1-Q4 pattern 50%→12.5%→0%→14.3%, burst ratio 5.75×), preparing Bob Issue #9 final report",
+    "description": "Session-end protocol initiated - computed final metrics (31 events, 19.4% orientation, Q1-Q4 pattern 50%\u219212.5%\u21920%\u219214.3%, burst ratio 5.75\u00d7), preparing Bob Issue #9 final report",
     "cause_of_session_end": "planned_boundary"
   },
   {
@@ -195,5 +195,11 @@
     "kind": "productive",
     "source": "a2a",
     "description": "Acknowledged Bob bounded verification insight on Issue #9 - protocol design mediates burst shape, not just session length"
+  },
+  {
+    "timestamp": "2026-03-24T13:45:50-07:00",
+    "kind": "productive",
+    "source": "cognirelay_capsule",
+    "description": "Session continuation after consolidation - checking for updates on external collaborations"
   }
 ]
